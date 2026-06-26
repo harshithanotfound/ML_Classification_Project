@@ -1,4 +1,3 @@
-# ML_Classification_Project
 # ML Classification Project
 
 ## Overview
